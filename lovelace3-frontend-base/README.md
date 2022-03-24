@@ -1,1 +1,1 @@
-# lovelace3-frontend-base
+# lovelace2-frontend-base
